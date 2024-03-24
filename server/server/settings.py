@@ -55,10 +55,10 @@ WSGI_APPLICATION = 'server.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'drf_auth',
-        'USER': 'root',
-        'PASSWORD': 'Muhambet311211$$$',
-        'HOST': 'localhost',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
     }
 }
 
